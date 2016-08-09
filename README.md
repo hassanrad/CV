@@ -6,6 +6,8 @@
 
 I have had a life-long interest, since early childhood, in the nitty-gritty of computers, spending countless hours of free time modifying and experimenting with software and hardware. Despite that underlying interest in PCs, the last 10 years were a winding detour into other fields of study and work, taking me from the rainy Pacific Northwest to the scorching heat of Dubai, and now to London.
 
+During that detour, I was encouraged by friends and family to pursue what they recognized as my talent and interest in programming, and it took me a while to finally
+
 I attended Makers Academy, a sixteen-week course, in pursuit of an opportunity to become proficient in building virtual solutions to problems in creative ways. During this course, I developed a skill-set and focus on agile, object-orientated design. I am searching for a junior developer job with opportunities to learn, and contribute to interesting projects.
 
 ## <a name="skills">Skills</a>
@@ -46,6 +48,13 @@ A sixteen week bootcamp which focuses on:
 
 * Communications BSc.
 
+## <a name="Experience">Experience</a>
+
+**Gulf Supplies & Commercial Services** (February 2013 to May 2016)  
+I worked as a Contract Bid Specialist, focused on the Middle East market. This involved working on multiple bid efforts simultaneously on tight-deadlines, writing technical proposals, and creating digital marketing material.
+
+* 
+
 ## <a name="Hobbies">Hobbies and interests</a>
 
 I am a movie-buff, with a strong emphasis on foreign and documentary films, the more eye-opening the better.
@@ -53,8 +62,3 @@ I am a movie-buff, with a strong emphasis on foreign and documentary films, the 
 Another interest is video games/interactive-art, especially the burgeoning experimential VR content coming out for mobile and desktop VR-headsets.
 
 Slightly different than my other interests, I cannot get enough of hiking in the woods, away from city noise.
-
-## <a name="Experience">Experience</a>
-
-**Gulf Supplies & Commercial Services** (February 2013 to May 2016)  
-I worked as a Contract Bid Specialist, focused on the Middle East market. This involved working on multiple bid efforts simultaneously on tight-deadlines, writing technical proposals, and creating digital marketing material.
