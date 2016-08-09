@@ -2,7 +2,11 @@
 
 [Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies) | [Experience](#Experience)
 
-I am a former Contract Bid Specialist, and look forward to starting my career as a web developer. I attended Makers Academy, a twelve-week course, in pursuit of an opportunity to create solutions to problems in creative ways. During this course, I developed a skill-set and focus on agile, object-orientated design. I am searching for a junior developer job with opportunities to learn, and contribute to interesting projects.
+### My Story
+
+I have had a life-long interest, since early childhood, in the nitty-gritty of computers, spending countless hours of free time modifying and experimenting with software and hardware. Despite that underlying interest in PCs, the last 10 years were a winding detour into other fields of study and work, taking me from the rainy Pacific Northwest to the scorching heat of Dubai, and now to London.
+
+I attended Makers Academy, a sixteen-week course, in pursuit of an opportunity to become proficient in building virtual solutions to problems in creative ways. During this course, I developed a skill-set and focus on agile, object-orientated design. I am searching for a junior developer job with opportunities to learn, and contribute to interesting projects.
 
 ## <a name="skills">Skills</a>
 
