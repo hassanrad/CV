@@ -26,7 +26,7 @@ I leave my ego outside of interactions with colleagues during projects, and this
 
 #### Makers Academy (May 2016 to August 2016)
 
-A twelve week bootcamp which focuses on:
+A sixteen week bootcamp which focuses on:
 * Pair programming
 * Object-orientated design
 * Test driven development
