@@ -50,7 +50,9 @@ A twelve week bootcamp which focuses on:
 
 I am a movie-buff, with a strong emphasis on foreign and documentary films, the more eye-opening the better.
 
-A second interest is video games/interactive-art, especially the burgeoning experimential VR content coming out for mobile and desktop VR-headsets.
+Another interest is video games/interactive-art, especially the burgeoning experimential VR content coming out for mobile and desktop VR-headsets.
+
+Slightly different than my other interests, I cannot get enough of hiking in the woods, away from city noise.
 
 ## <a name="Experience">Experience</a>
 
