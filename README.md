@@ -2,7 +2,7 @@
 
 hassan.rad@gmail.com | +44 075-0036-2789
 
-[Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies) | [Experience](#Experience)
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies and Interests](#Hobbies)
 
 ### My Story
 
@@ -12,7 +12,7 @@ During that detour, I was encouraged by friends and family to pursue what they r
 
 I attended Makers Academy, a sixteen-week course, in pursuit of an opportunity to become proficient in building virtual solutions to problems in creative ways. During this course, I developed a skill-set and focus on agile, object-orientated design. I am searching for a junior developer job with opportunities to learn, and contribute to interesting projects.
 
-## <a name="skills">Skills</a>
+## <a name="Skills">Skills</a>
 
 #### Fast Learner & Seek Challenges
 
