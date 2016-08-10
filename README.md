@@ -55,8 +55,6 @@ A sixteen week bootcamp which focuses on:
 **Gulf Supplies & Commercial Services** (February 2013 to May 2016)  
 I worked as a Contract Bid Specialist, focused on the Middle East market. This involved working on multiple bid efforts simultaneously on tight-deadlines, writing technical proposals, and creating digital marketing material.
 
-* 
-
 ## <a name="Hobbies">Hobbies and interests</a>
 
 I am a movie-buff, with a strong emphasis on foreign and documentary films, the more eye-opening the better.
