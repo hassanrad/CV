@@ -2,17 +2,32 @@
 
 hassan.rad@gmail.com | +44 075-0036-2789
 
-[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies and Interests](#Hobbies)
+[Skillset](#Skillset) | [Education](#Education) | [Experience](#Experience) | [Hobbies and Interests](#Hobbies)
 
-### My Story
+### Profile
 
-I have had a life-long interest in the nitty-gritty of computers, spending countless hours of free time modifying and experimenting with software and hardware. Despite that underlying interest in PCs, the last 10 years were a winding detour into other fields of study and work, taking me from the rainy Pacific Northwest to the scorching heat of Dubai, and now to London.
+I have had a life-long interest in the nitty-gritty of computers, spending countless hours of free time tinkering and experimenting with software and hardware. Despite that preoccupation in all things PC, the last decade was a winding detour into other fields of study and work, taking me from the rainy Pacific Northwest to the scorching heat of Dubai, and now to London.
 
-During that detour, I was encouraged by friends and family to pursue what they recognized as my interest in programming, and it took me until recently to get back on track.
+During that detour, I was encouraged by friends and family to pursue what they recognized as my interest in programming, and it took me until recently to get back on track. Forgoing the path of going back to university and getting a degree in Computer Science, I instead attended Makers Academy in London, a sixteen-week web development bootcamp course.
 
-I attended Makers Academy, a sixteen-week course, in pursuit of an opportunity to become proficient in building virtual solutions to problems in creative ways. During this course, I developed a skill-set and focus on agile, object-orientated design. I am searching for a junior developer job with opportunities to learn, and contribute to interesting projects.
+It wasn't an easy decision to end my previous career path and move to a new country, without any guarantee that I would succeed, but in retrospect that decision was well made. During this course, I spent 40+ hours a week developing a skill-set and focus on agile, object-orientated programming design. The skillset and projects described below are just the beginning of my self-education, as I am continuing to actively expand my knowledge.
 
-## <a name="Skills">Skills</a>
+I am excited to start a junior developer job, especially one that comes with opportunities to learn, facilitate career growth, contribute to interesting projects, and be part of a team of friendly folks.
+
+## <a name="Skillset">Skillset</a>
+
+  - TDD, BDD
+  - Pair programming
+  - Agile practices
+  - Ruby
+  - Ruby on Rails
+  - Sinatra
+  - Javascript
+  - Node.js and Express
+  - SQL databases like PostreSQL
+  - No-SQL databases like MongoDB
+  - Testing with Rspec, Jasmine, Mocha, Capybara, and Zombie
+  - HTML5, CSS3, Jquery
 
 #### Fast Learner & Seek Challenges
 
@@ -41,10 +56,10 @@ A sixteen week bootcamp which focuses on:
 
 | Name | Description | Technologies | Testing |
 |------|-------------|--------------|---------|
+|[**Asteroids**](https://github.com/mbutlerw/Asteroids)| Fully functioning remake of Asteroids, using only vanilla Javascript | Javascript, HTML5, A-Frame | Jasmine, Karma |
 |[**Social-Code**](https://github.com/Rb2030/social-code)| Allows you to check into cafes that programmers hang out in, telling others you're available to work together on coding | Rails, Postgres, Google Maps API | RSpec, Capybara |
 |[**MakersBnB**](https://github.com/Andy-Bell/makersbnb)| A clone of AirBnb which allows you to view, request and book places to stay. | jQuery, Node, Express, MongoDB | Mocha, Zombie |
 |[**Chitter**](https://github.com/hassanrad/chitter-challenge)| A clone of Twitter which allows you to sign-up/in and post peeps. | Ruby, Sinatra, jQuery | RSpec, Capybara |
-
 
 #### Portland State University - Portland, Oregon, USA (2007 to 2012)
 
