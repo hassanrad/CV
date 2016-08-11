@@ -10,7 +10,7 @@ I have had a life-long interest in the nitty-gritty of computers, spending count
 
 During that detour, I was encouraged by friends and family to pursue what they recognized as my interest in programming, and it took me until recently to get back on track. Forgoing the path of going back to university and getting a degree in Computer Science, I instead attended Makers Academy in London, a sixteen-week web development bootcamp course.
 
-It wasn't an easy decision to end my previous career path and move to a new country, without any guarantee that I would succeed, but in retrospect that decision was well made. During this course, I spent 40+ hours a week developing a skill-set and focus on agile, object-orientated programming design. The skillset and projects described below are just the beginning of my self-education, as I am continuing to actively expand my knowledge.
+It wasn't an easy decision to end my previous career path and move to a new country, without any guarantee that I would succeed, but in retrospect that decision was well made. During this course, I spent 40+ hours a week developing a skill-set and focus on agile, object-orientated programming design. The skills and projects described below are just the beginning of my self-education, as I am continuing to actively expand my knowledge.
 
 I am excited to start a junior developer job, especially one that comes with opportunities to learn, facilitate career growth, contribute to interesting projects, and be part of a team of friendly folks.
 
