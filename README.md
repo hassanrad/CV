@@ -72,8 +72,8 @@ I worked as a Contract Bid Specialist, focused on the Middle East market. This i
 
 ## <a name="Hobbies">Hobbies and interests</a>
 
-I am a movie-buff, with a strong emphasis on foreign and documentary films, the more eye-opening the better.
+I am a movie-buff, especially foreign and documentary films, the more eye-opening the better. It’s cheaper than travelling, that’s for sure.
 
-Another interest is video games/interactive-art, especially the burgeoning experimential VR content coming out for mobile and desktop VR-headsets.
+Another interest is video games/interactive-art, especially the experimental VR content coming out for mobile and desktop VR-headsets. I plan to create WebVR content (using Three.js and A-Frame) as a hobbyist and hopefully in a professional capacity in the near future.
 
-Slightly different than my other interests, I cannot get enough of hiking in the woods, away from city noise.
+Slightly different than my other interests, I cannot get enough of hiking deep in the woods, away from city noise.
