@@ -8,7 +8,7 @@ hassan.rad@gmail.com | +44 075-0036-2789
 
 I have had a life-long interest in the nitty-gritty of computers, spending countless hours of free time tinkering and experimenting with software and hardware. Despite that preoccupation in all things PC, the last decade was a winding detour into other fields of study and work, taking me from the rainy Pacific Northwest to the scorching heat of Dubai, and now to London.
 
-During that detour, I was encouraged by friends and family to pursue what they recognized as my interest in programming, and it took me until recently to get back on track. Forgoing the path of going back to university and getting a degree in Computer Science, I instead attended Makers Academy in London, a sixteen-week web development bootcamp course.
+During that detour, I retained my interest in becoming a programmer, and it took me until recently to get back on track. Forgoing the path of going back to university and getting a degree in Computer Science, I instead attended Makers Academy in London, an intensive sixteen-week web development bootcamp course.
 
 It wasn't an easy decision to end my previous career path and move to a new country, without any guarantee that I would succeed, but in retrospect that decision was well made. During this course, I spent 40+ hours a week developing a skill-set and focus on agile, object-orientated programming design. The skills and projects described below are just the beginning of my self-education, as I am continuing to actively expand my knowledge.
 
