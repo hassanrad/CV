@@ -47,7 +47,7 @@ I leave my ego outside of interactions with colleagues during projects, and this
 
 A sixteen week bootcamp which focuses on:
 * Pair programming
-* Object-orientated design
+* Object-oriented design
 * Test driven development
 * Behavior-driven development
 * Agile Methodologies
