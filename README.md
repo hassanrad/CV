@@ -68,7 +68,15 @@ A sixteen week bootcamp which focuses on:
 ## <a name="Experience">Experience</a>
 
 **Gulf Supplies & Commercial Services** (February 2013 to May 2016)  
-I worked as a Contract Bid Specialist, focused on the Middle East market. This involved working on multiple bid efforts simultaneously on tight-deadlines, writing technical proposals, and creating digital marketing material.
+I worked as a Contract Bid Specialist & Marketing Specialist, focused on the Middle East market. This involved working on multiple bid efforts simultaneously on tight-deadlines, writing technical proposals, and creating digital marketing material.
+
+Also designed, developed and maintained GSCS Group company websites using WordPress, CodeIgniter & MySQL.
+
+Websites created during this job include: 
+* [www.ascsgulf.com](www.ascsgulf.com)
+* [www.epicrentacar.com](www.epicrentacar.com)
+* [www.epicrepairacar.com](www.epicrepairacar.com)
+* [www.gulfstariq.com](www.gulfstariq.com)
 
 ## <a name="Hobbies">Hobbies and interests</a>
 
