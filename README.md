@@ -56,9 +56,9 @@ A sixteen week bootcamp which focuses on:
 
 | Name | Description | Technologies | Testing |
 |------|-------------|--------------|---------|
-|[**Asteroids**](https://github.com/mbutlerw/Asteroids)| Fully functioning remake of Asteroids, using only vanilla Javascript | Javascript, HTML5, A-Frame | Jasmine, Karma |
-|[**Social-Code**](https://github.com/Rb2030/social-code)| Allows you to check into cafes that programmers hang out in, telling others you're available to work together on coding | Rails, Postgres, Google Maps API | RSpec, Capybara |
-|[**MakersBnB**](https://github.com/Andy-Bell/makersbnb)| A clone of AirBnb which allows you to view, request and book places to stay. | jQuery, Node, Express, MongoDB | Mocha, Zombie |
+|[**Asteroids**](https://github.com/hassanrad/Asteroids)| Fully functioning remake of Asteroids, using only vanilla Javascript | Javascript, HTML5, A-Frame | Jasmine, Karma |
+|[**Social-Code**](https://github.com/hassanrad/social-code)| Allows you to check into cafes that programmers hang out in, telling others you're available to work together on coding | Rails, Postgres, Google Maps API | RSpec, Capybara |
+|[**MakersBnB**](https://github.com/hassanrad/makersbnb)| A clone of AirBnb which allows you to view, request and book places to stay. | jQuery, Node, Express, MongoDB | Mocha, Zombie |
 |[**Chitter**](https://github.com/hassanrad/chitter-challenge)| A clone of Twitter which allows you to sign-up/in and post peeps. | Ruby, Sinatra, jQuery | RSpec, Capybara |
 
 #### Portland State University - Portland, Oregon, USA (2007 to 2012)
