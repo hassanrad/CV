@@ -1,6 +1,6 @@
 ## Hassan Radheyyan
 
-hassan.rad@gmail.com | +44 075-0036-2789
+hassan.rad@gmail.com | +1 (917)-780-0895
 
 [Skillset](#Skillset) | [Education](#Education) | [Experience](#Experience) | [Hobbies and Interests](#Hobbies)
 
@@ -43,7 +43,29 @@ I leave my ego outside of interactions with colleagues during projects, and this
 
 ## <a name="Education">Education</a>
 
-#### Makers Academy (May 2016 to August 2016)
+#### FDM Academy – 14 Wall St, New York, NY 10005, USA (Jan 2017 – May 2017)
+
+Hassan is attending a 17 week Java Developer program.
+This program includes the following modules:
+1. Professional Skills
+2. Unix
+3. Unix scripting, SQL part 1
+4. SQL part 2
+5. Java Core Fundamentals and Key Tools (Eclipse, SVN)
+6. JUnit, TDD, UML, and Object Oriented Principles
+7. Java Core Fundamentals and Key Tools (log4j, Mockito, Maven)
+8. Java Core (I/O)
+9. Java Core (Multithreading)
+10. Data Access using JDBC, JPA)
+11. Finance
+12. Web Development (HTML, CSS, JavaScript, XML)
+13. Java Web Applications on Tomcat (Servlets and JSP)
+14. Spring Framework (Core)
+15. Spring Framework (AOP and Web MVC)
+16. Group Project (Scrum)
+17. Sign Off Exams
+
+#### Makers Academy - London, United Kingdom (May 2016 to August 2016)
 
 A sixteen week bootcamp which focuses on:
 * Pair programming
@@ -52,7 +74,7 @@ A sixteen week bootcamp which focuses on:
 * Behavior-driven development
 * Agile Methodologies
 
-**A few projects include:**
+**A few projects created at Makers Academy include:**
 
 | Name | Description | Technologies | Testing |
 |------|-------------|--------------|---------|
