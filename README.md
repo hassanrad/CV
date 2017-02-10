@@ -6,13 +6,11 @@ hassan.rad@gmail.com | +1 (917)-780-0895
 
 ### Profile
 
-I have had a life-long interest in the nitty-gritty of computers, spending countless hours of free time tinkering and experimenting with software and hardware. Despite that preoccupation in all things PC, the last decade was a winding detour into other fields of study and work, taking me from the rainy Pacific Northwest to the scorching heat of Dubai, and now to London.
+Hassan, a graduate of Communications from Portland State University, has had a life-long interest in computers, having spent much of his free time experimenting with both software and hardware engineering. Immediately after graduation, Hassan proactively modified his employer’s website, improving its online booking system and inventory-price database. Although he was not working in a software development environment, he had to learn and apply PHP and SQL in order to complete his objectives.
 
-During that detour, I retained my interest in becoming a programmer, and it took me until recently to get back on track. Forgoing the path of going back to university and getting a degree in Computer Science, I instead attended Makers Academy in London, an intensive sixteen-week web development bootcamp course.
+With his newly realized interest in programming, he attended a web development bootcamp that focused on back-end and front-end technologies, including Ruby and JavaScript. During the course he collaborated with other developers on several projects, utilizing Agile methodologies such as pair programming, test-driven development and SCRUM.
 
-It wasn't an easy decision to end my previous career path and move to a new country, without any guarantee that I would succeed, but in retrospect that decision was well made. During this course, I spent 40+ hours a week developing a skill-set and focus on agile, object-orientated programming design. The skills and projects described below are just the beginning of my self-education, as I am continuing to actively expand my knowledge.
-
-I am excited to start a junior developer job, especially one that comes with opportunities to learn, facilitate career growth, contribute to interesting projects, and be part of a team of friendly folks.
+His goal is to start a Software Development career after completing his FDM Java training, and ultimately becoming a Senior Developer.
 
 ## <a name="Skillset">Skillset</a>
 
@@ -31,15 +29,15 @@ I am excited to start a junior developer job, especially one that comes with opp
 
 #### Fast Learner & Seek Challenges
 
-For the Makers Academy final project, I created a game entirely in vanilla JavaScript and HTML5, and managed to build a fully functioning game that included simulated physics, collision detection, multiplayer, and a VR-mode. All this was done within two weeks, and without using any additional frameworks (besides A-Frame used for VR). This project can be found [here](http://makeroids.herokuapp.com/).
+For the Makers Academy final project, Hassan created a game entirely in vanilla JavaScript and HTML5, and managed to build a fully functioning game that included simulated physics, collision detection, multiplayer, and a VR-mode. All this was done within two weeks, and without using any additional frameworks (besides A-Frame used for VR). This project can be found [here](http://makeroids.herokuapp.com/).
 
 #### Attention to Detail
 
-A skill that I developed while being a contract bid specialist is poring over potential clients' requirements, no matter how concise or verbose, to identify areas to focus on during tight time-frames and maximize the chance for contractual awards. This involved exhaustive research and consolidating disparate sources of information, whether by searching online or interviewing experts. That experience has taught me to maintain a macro and micro-scopic view of complex projects.
+A skill that Hassan developed while being a contract bid specialist is poring over potential clients' requirements, no matter how concise or verbose, to identify areas to focus on during tight time-frames and maximize the chance for contractual awards. This involved exhaustive research and consolidating disparate sources of information, whether by searching online or interviewing experts. That experience has taught him to maintain a macro and micro-scopic view of complex projects.
 
 #### Team-Player
 
-I leave my ego outside of interactions with colleagues during projects, and this can sometimes be seen as shyness, but my aim is to emphasize cohesion of team-efforts. Any disagreements I might have are brought forward in the form of helpful suggestions and questions, to maintain the XP values of communication and respect.
+Hassan leaves his ego outside of interactions with colleagues during projects, and this can sometimes be seen as shyness, but his aim is to emphasize cohesion of team-efforts. Any disagreements he might have are brought forward in the form of helpful suggestions and questions, to maintain the XP values of communication and respect.
 
 ## <a name="Education">Education</a>
 
@@ -91,7 +89,7 @@ A sixteen week bootcamp which focuses on:
 ## <a name="Experience">Experience</a>
 
 **Gulf Supplies & Commercial Services** (February 2013 to May 2016)  
-I worked as a Contract Bid Specialist & Marketing Specialist, focused on the Middle East market. This involved working on multiple bid efforts simultaneously on tight-deadlines, writing technical proposals, and creating digital marketing material.
+Hassan worked as a Contract Bid Specialist & Marketing Specialist, focused on the Middle East market. This involved working on multiple bid efforts simultaneously on tight-deadlines, writing technical proposals, and creating digital marketing material.
 
 Also designed, developed and maintained GSCS Group company websites using WordPress, CodeIgniter & MySQL.
 
