@@ -47,6 +47,7 @@ I leave my ego outside of interactions with colleagues during projects, and this
 
 Hassan is attending a 17 week Java Developer program.
 This program includes the following modules:
+
 1. Professional Skills
 2. Unix
 3. Unix scripting, SQL part 1
@@ -102,8 +103,8 @@ Websites created during this job include:
 
 ## <a name="Hobbies">Hobbies and interests</a>
 
-I am a movie-buff, especially foreign and documentary films, the more eye-opening the better. It’s cheaper than travelling, that’s for sure.
+Avid movie-buff, especially foreign and documentary films, the more eye-opening the better.
 
-Another interest is video games/interactive-art, especially the experimental VR content coming out for mobile and desktop VR-headsets. I plan to create WebVR content (using Three.js and A-Frame) as a hobbyist and hopefully in a professional capacity in the near future.
+Video games / interactive-art, especially the experimental VR content coming out for mobile and desktop VR-headsets. Have started creating WebVR content (using Three.js and A-Frame) as a hobbyist and hopefully in a professional capacity in the near future.
 
-Slightly different than my other interests, I cannot get enough of hiking deep in the woods, away from city noise.
+Hiking deep in the woods, away from city noise.
